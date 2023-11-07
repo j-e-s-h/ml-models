@@ -1,0 +1,1 @@
+Linear Regression Model used as a predictor of House pricing in Chicago for both univariable and multivariable analysis.
